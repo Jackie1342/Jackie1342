@@ -1,10 +1,10 @@
 # Mengxuan(Jackie) Li's User Page
 
-*Hello!* My name is **Jackie**.\n
-I'm an *aspired* CS student who is pursuing my career as a software engineer.\n
-Here is some ~~basic~~ info that can help you know me!\n
+*Hello!* My name is **Jackie**.  
+I'm an *aspired* CS student who is pursuing my career as a software engineer.  
+Here is some ~~basic~~ info that can help you know me!  
 
-[image](./image/welcomeCat.jpg)
+[image](https://jackie1342.github.io/image/welcomeCat.jpg)
 
 ## program language I use
 
@@ -62,8 +62,8 @@ while(I.isAlive()){
 
 ## Memes
 
-[image](./image/Meme1.png)
-[image](./image/Meme2.jpg)
+[image](https://jackie1342.github.io/image/Meme1.png)  
+[image](https://jackie1342.github.io/image/Meme2.jpg)
 
-[All image used in the page](./image)
+[All image used in the page](./image/image.md)  
 [Back to top](#mengxuanjackie-lis-user-page)
