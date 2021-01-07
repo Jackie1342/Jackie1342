@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jackie1342/Jackie1342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Mengxuan(Jackie) Li's User Page
+# Mengxuan(Jackie) Li's User Page
+
+*Hello!* My name is **Jackie**.
+I'm an *aspired* CS student who is pursuing my career as a software engineer
+Here is some ~~basic~~ info that can help you know me!
+
+！[image of a welcome cat](./image/welcomeCat.jpg)
+
 My favorite programming language is C++
